@@ -2,61 +2,61 @@
     {
         "id": 1,
         "price": 455,
-        "name": "watch2",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "apple watch",
+        "image": "https://img.freepik.com/free-psd/realistic-smart-watch-mockup_165789-534.jpg?w=1380&t=st=1648222105~exp=1648222705~hmac=11f7dc58edb632252479eb883e642a4b1b01a02e2cd896df3b478af6b725399c"
     },
     {
         "id": 2,
         "price": 455,
-        "name": "watch3",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Elegant watch",
+        "image": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1648233023~exp=1648233623~hmac=89a3b2383e25b1b1aba5ff3b0cf61685b35a55ff4e7443aa642660aee6834cee&w=826"
     },
     {
         "id": 3,
         "price": 455,
-        "name": "watch4",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Rolex",
+        "image": "https://img.freepik.com/free-vector/realistic-watch-clock-chronograph-steel-white-background_33869-739.jpg?w=740"
     },
     {
         "id": 4,
         "price": 455,
-        "name": "watch5",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Titan",
+        "image": "https://img.freepik.com/free-photo/close-up-luxury-man-wrist-watches-placed-timber-brown-background_85778-23.jpg?w=1380"
     },
     {
         "id": 5,
         "price": 455,
-        "name": "watch6",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Samsung watch",
+        "image": "https://img.freepik.com/free-vector/white-smartwatch-background_1412-32.jpg?t=st=1648233023~exp=1648233623~hmac=360622105bbbf8999a4fe40342bd097d59a88ef9b8bdaf8b8beae1bad63a2874&w=826"
     },
     {
         "id": 6,
         "price": 455,
-        "name": "watch7",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Huwaei watch",
+        "image": "https://img.freepik.com/free-psd/smartwatch-screen-mockup-digital-device_53876-98737.jpg?t=st=1648233299~exp=1648233899~hmac=f786592bcd3d614baf187791411d4cb1db9d390c2d88afef61d98d9f9ad5d0a8&w=826"
     },
     {
         "id": 7,
         "price": 455,
-        "name": "watch8",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Casino",
+        "image": "https://img.freepik.com/free-vector/classic-watches-interface_250435-186.jpg?t=st=1648233299~exp=1648233899~hmac=364f8d77464bc67d52a4a9ed1cfe22671aed0c763d0601d50191eeab6a00833e&w=826"
     },
     {
         "id": 8,
         "price": 455,
-        "name": "watch9",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Superfast",
+        "image": "https://img.freepik.com/free-photo/men-s-mechanical-watch-background_488220-20738.jpg?w=1380"
     },
     {
         "id": 9,
         "price": 455,
-        "name": "watch10",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Gelio watch",
+        "image": "https://img.freepik.com/free-photo/men-s-mechanical-watch-dark-background_488220-26725.jpg?w=1380"
     },
     {
         "id": 10,
         "price": 455,
-        "name": "watch11",
-        "image": "https://www.freepik.com/free-psd/realistic-smart-watch-mockup_21544738.htm#query=watch&position=1&from_view=search"
+        "name": "Mi Watch",
+        "image": "https://img.freepik.com/free-psd/high-angle-modern-blue-smartwatch-with-screen-mock-up_23-2148787559.jpg?t=st=1648233299~exp=1648233899~hmac=dae93a332c6d44395dadc6aa93cce2b497a53e5ef970088b401e39343753a26f&w=1380"
     }
 ]
