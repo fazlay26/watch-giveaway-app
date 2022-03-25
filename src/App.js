@@ -1,7 +1,7 @@
 
 import './App.css';
-import Header from './Header/Header';
-import Shop from './Header/Shop/Shop';
+import Header from './Components/Header/Header';
+import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
