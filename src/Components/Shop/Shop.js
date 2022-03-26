@@ -38,6 +38,7 @@ const Shop = () => {
 
 
                     <SelectedProducts cart={cart}></SelectedProducts>
+
                 }
             </div>
 
