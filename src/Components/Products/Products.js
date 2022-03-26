@@ -8,8 +8,10 @@ const Products = (props) => {
     return (
         <div className='single-product'>
             <img src={image} alt="" />
-            <h4>{name}</h4>
-            <p>Price:${price}</p>
+            <div className='product-info'>
+                <h4>{name}</h4>
+                <p>Price:${price}</p>
+            </div>
             <button onClick={() => props.handlerToCart(props.product)} className='btn-cart'>
                 <p className='btn-text'>Add to Cart</p>
                 <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>

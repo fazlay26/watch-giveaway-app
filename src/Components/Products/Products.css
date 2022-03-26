@@ -5,10 +5,12 @@
     position: relative;
 }
 .single-product img{
-    width: 286px;
-    height: 286px;
+    width: 350px;
+    height: 300px;
     border-radius: 8px;
-
+}
+.product-info{
+    padding: 0px 10px;
 }
 .btn-cart{
     width: 100%;

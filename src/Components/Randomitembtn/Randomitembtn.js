@@ -2,7 +2,7 @@ import React from 'react';
 import './Randomitembtn.css'
 
 const Randomitembtn = (props) => {
-    //console.log(props.random);
+    //console.log(props);
 
     return (
         <div>
