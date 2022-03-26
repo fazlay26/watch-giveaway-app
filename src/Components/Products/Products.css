@@ -3,6 +3,8 @@
     border-radius: 8px;
     border: 1px solid rgba(149, 160, 167, 1);
     position: relative;
+    margin-left:  10px;
+    
 }
 .single-product img{
     width: 350px;
