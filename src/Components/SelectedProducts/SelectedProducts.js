@@ -7,7 +7,6 @@ import './SelectedProducts.css'
 
 const SelectedProducts = (props) => {
     const [random, setrandom] = useState({})
-    const [remove, setRemove] = useState([])
     //console.log(remove);
     const cart = props.cart
     //console.log(cart);
@@ -18,23 +17,6 @@ const SelectedProducts = (props) => {
         setrandom(newRandom.randItem)
         //console.log(newRandom.randItem.name);
     }
-    const removeSelectItem = () => {
-        const cart = props.cart
-        let arr = [...remove, cart]
-        setRemove([])
-        console.log(arr);
-
-
-        console.log('remove', cart);
-    }
-    //let singleItemName;
-
-
-    // for (const singleItem of cart) {
-    //     //console.log(singleItem.name);
-    //     singleItemName = singleItem.name
-    // }
-
     return (
         <div className='selected-products'>
             <h2>Selected Products</h2>
@@ -51,8 +33,8 @@ const SelectedProducts = (props) => {
                 <br />
                 <br />
                 {/* <button onClick={removeSelectItem} className='choose-btn2'><p>Choose Again</p></button> */}
-                <RemoveItems removeSelectItem={removeSelectItem}
-                    remove={remove}></RemoveItems>
+                <RemoveItems removeSelectItem={props.removeSelectItem}
+                ></RemoveItems>
             </div>
 
 

@@ -20,6 +20,9 @@ const Shop = () => {
         setCart(newCart)
 
     }
+    const removeSelectItem = () => {
+        setCart([])
+    }
 
     return (
         <div className='shop-container'>
@@ -37,7 +40,8 @@ const Shop = () => {
                 {
 
 
-                    <SelectedProducts cart={cart}></SelectedProducts>
+                    <SelectedProducts cart={cart}
+                        removeSelectItem={removeSelectItem}></SelectedProducts>
 
                 }
             </div>
