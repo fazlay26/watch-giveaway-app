@@ -1,6 +1,6 @@
 # Watch GiveAway App
 
-This project was bootstrapped with [Live Site Link](https://watch-giveaway-app.netlify.app/).
+This is my React Project [Live Site Link](https://watch-giveaway-app.netlify.app/).
 
 ## Available Scripts
 

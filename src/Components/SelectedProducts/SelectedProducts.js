@@ -5,20 +5,7 @@ import RemoveItems from '../RemoveItems/RemoveItems';
 import './SelectedProducts.css'
 
 const SelectedProducts = (props) => {
-    //const [random, setrandom] = useState({})1
-    //console.log(random);
     const cart = props.cart
-    //console.log(cart);
-    // const getRandomItem = () => {
-    //     let randItem = cart[Math.floor(Math.random() * cart.length)];
-    //     //console.log(randItem);
-    //     let newRandom = { ...random, randItem }
-    //     setrandom(newRandom.randItem)
-    //     //console.log(newRandom.randItem.name);
-    // }2
-    // const removeRandom = () => {
-    //     setrandom({})
-    // }3
 
     return (
         <div className='selected-products'>

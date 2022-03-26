@@ -9,7 +9,7 @@ const Randomitembtn = (props) => {
             <button onClick={props.getRandomItem} className="choose-btn1" >
                 <p>choose 1 for me</p>
             </button>
-            <h4>You Got:{props.random.name}</h4>
+            <h3>You Got:{props.random.name}</h3>
 
         </div>
     );
